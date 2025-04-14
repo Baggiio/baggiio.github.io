@@ -1,10 +1,5 @@
-[Artigo 1](https://arxiv.org/pdf/2305.12001)
+[Apresentação Plano de Projeto](https://github.com/gb-cs-rt/stoc_fispq/blob/main/docs/STOCFISPQ_Planejamento-Presentation_v1.0.pdf)
 
-[Artigo 2](https://arxiv.org/pdf/2304.01933)
+[Plano GCS](https://github.com/gb-cs-rt/stoc_fispq/blob/main/docs/STOCFISPQ_Plano-Gestao-Configura%C3%A7%C3%A3o-Software_v1.0.doc)
 
-[Artigo 3](https://arxiv.org/pdf/2312.12148)
-
-[Resumo Artigos Baggio](https://github.com/Baggiio/baggiio.github.io/blob/main/ResumoArtigos.pdf)
-
-[Resumo Artigos Ruan](https://github.com/Baggiio/baggiio.github.io/blob/main/Resumo%20artigos%20Finetuning.pdf)
-
+[Wiki](https://github.com/gb-cs-rt/stoc_fispq/wiki)
