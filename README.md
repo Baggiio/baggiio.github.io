@@ -1,1 +1,1 @@
-[Apresentação Metodologia TCC](https://miro.com/app/board/uXjVI-3wViE=/)
+[Apresentação TCC 1](https://view.genially.com/67b668dccd61795a906a494b/presentation-otimizacao-de-raciocinio-em-llms-de-codigo-aberto-com-grpo-um-estudo-comparativo-da-aplicacao-isolada-e-combinada-com-lora)
